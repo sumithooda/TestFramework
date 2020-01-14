@@ -7,7 +7,7 @@ This is Selenium based Test Automation Framework which is developed combining bo
 1. Please make sure your IDE is compatible for the Maven , Cucumber , Gherkins and TestNG by downloading the available plug-ins.
 2. Run the command "mvn clean install" to download all the maven dependency which is defined in the pom.xml file. if you get any error around "extentreport-adapter" then run the below command in the Terminal.
 
-command:- mvn install:install-file -Dfile=<complete file path of jar file available in lib folder> -DgroupId=com.aventstack -DartifactId=extentreports-cucumber4-adapter -Dversion=1.0.8 -Dpackaging=jar
+command:- mvn install:install-file -Dfile=complete file path of jar file available in lib folder -DgroupId=com.aventstack -DartifactId=extentreports-cucumber4-adapter -Dversion=1.0.8 -Dpackaging=jar
 
 
 #How to Run Test cases:-
