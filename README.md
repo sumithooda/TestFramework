@@ -1,5 +1,5 @@
 # TestFramework
-# Mobiquity Qa Assignment using SeleniumCucumberTestNGFramework
+# Testframework using SeleniumCucumberTestNGFramework
 
 This is Selenium based Test Automation Framework which is developed combining both Cucumber (BDD) and Page Object Model strategy. This framework can be used to automation web-based applications. I have taken a sample application to showcase the functionality of it.
 
